@@ -5,8 +5,9 @@
 
 ## TODO
 
-- [] Add Payment Content Type
-- [] Add Razorpay Payment Webhook
+- [ ] Add Payment Content Type
+- [ ] Add Razorpay Payment Webhook.
+- [ ] Add Service for generating payment link
 
 ## Installation
 
