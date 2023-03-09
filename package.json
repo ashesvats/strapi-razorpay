@@ -1,10 +1,10 @@
 {
-  "name": "razorpay",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "name": "strapi-plugin-razorpay",
+  "version": "1.0.0",
+  "description": "Razorpay integration for Strapi",
   "strapi": {
     "name": "razorpay",
-    "description": "Description of razorpay plugin",
+    "description": "Razorpay integration for Strapi",
     "kind": "plugin"
   },
   "dependencies": {
@@ -31,12 +31,23 @@
     "react-router-dom": "^5.3.4",
     "styled-components": "^5.3.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashesvats/strapi-razorpay"
+  },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Ashes Vats",
+    "email": "ashes.vats@gmail.com"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Bhoopal tsc",
+      "email": "bhoopal10@gmail.com",
+      "url": "https://strapi.io"
+    },
+    {
+      "name": "Ashes Vats",
+      "email": "ashes.vats@gmail.com"
     }
   ],
   "engines": {
