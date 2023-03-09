@@ -1,5 +1,13 @@
 # Strapi Razorpay Plugin
 
+👉 FOR MORE DOCUMENTATION AND HELP CHECK
+[WIKI PAGE](https://github.com/ashesvats/strapi-razorpay/wiki)
+
+## TODO
+
+- [] Add Payment Content Type
+- [] Add Razorpay Payment Webhook
+
 ## Installation
 
 1. Add this to ./config/plugins file.
